@@ -21,7 +21,7 @@ class OrderService {
     try {
       await _firestore.collection('headchef').add({
         'dishName': dishName,
-        'votes': votes,
+        'votes': 5,
         'notes': notes,
         'quantity': quantity,
         'createdAt': FieldValue.serverTimestamp(), // Adds the creation time
