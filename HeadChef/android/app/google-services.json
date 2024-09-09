@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311209315588",
+    "project_id": "headchef-988d2",
+    "storage_bucket": "headchef-988d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311209315588:android:e273a9ed9215ff5ae01451",
+        "android_client_info": {
+          "package_name": "com.example.headchef"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9tGzdDydBK7r5SBL0RdrGd7GwF3j0bR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
